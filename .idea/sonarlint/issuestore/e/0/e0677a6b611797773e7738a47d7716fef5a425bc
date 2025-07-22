@@ -1,0 +1,7 @@
+
+pkotlin:S6306"XUsing "SupervisorJob()" here leads to the breaking of structured concurrency principles.(Áòıª
+@kotlin:S1481"(Remove this unused "job" local variable.(ƒû¹²
+Ekotlin:S1481"(Remove this unused "job" local variable.(¡½¸ûÿÿÿÿ
+?kotlin:S14812"(Remove this unused "job" local variable.(Æ›–)
+Akotlin:S1481@")Remove this unused "job2" local variable.(šœ
+Akotlin:S1481;")Remove this unused "job1" local variable.(¹ƒÅ

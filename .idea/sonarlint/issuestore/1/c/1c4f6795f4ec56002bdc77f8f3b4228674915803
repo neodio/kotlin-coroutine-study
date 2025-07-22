@@ -1,0 +1,4 @@
+
+@kotlin:S6310"Avoid hardcoded dispatchers.(ìŒ­åÿÿÿÿÿ8¸ş‚ƒ3
+bkotlin:S6316*"CUse "withTimeoutOrNull { }" instead of manual delayed cancellation.(Îğ‰Â8¸ş‚ƒ3
+akotlin:S63164"CUse "withTimeoutOrNull { }" instead of manual delayed cancellation.(İ‰ı8¹ş‚ƒ3
